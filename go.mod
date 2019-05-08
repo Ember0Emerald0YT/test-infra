@@ -3,7 +3,7 @@ module k8s.io/test-infra
 replace github.com/golang/lint => golang.org/x/lint v0.0.0-20190301231843-5614ed5bae6f
 
 require (
-	cloud.google.com/go v0.37.2
+	cloud.google.com/go v0.38.0
 	github.com/Azure/azure-sdk-for-go v21.1.0+incompatible
 	github.com/Azure/azure-storage-blob-go v0.0.0-20190123011202-457680cc0804
 	github.com/Azure/go-autorest v10.15.5+incompatible
