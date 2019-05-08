@@ -100,7 +100,7 @@ require (
 	k8s.io/client-go v9.0.0+incompatible
 	k8s.io/code-generator v0.0.0-20190301173042-b1289fc74931
 	k8s.io/gengo v0.0.0-20190306031000-7a1b7fb0289f // indirect
-	k8s.io/klog v0.1.0
+	k8s.io/klog v0.3.0
 	k8s.io/kube-openapi v0.0.0-20180711000925-0cf8f7e6ed1d // indirect
 	k8s.io/kubernetes v1.14.0 // indirect
 	k8s.io/repo-infra v0.0.0-20190329054012-df02ded38f95
